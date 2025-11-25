@@ -31,26 +31,16 @@ Features:-
 
 -Allocate beds and track bed availability
 
--View complete record lists:
+Technologies Used:-
 
--Patients
+-Java (JDK 17+)
 
--Doctors
+-Object-Oriented Programming (OOP)
 
--Appointments
+-Swing GUI
 
--Beds
+-MySQL Database
 
--Persistent storage using MySQL database
+-JDBC (Java Database Connectivity)
 
--Swing-based GUI interface
-
--OOP implementation using:
-
--Abstraction
-
--Inheritance
-
--Encapsulation
-
--Includes multithreading and basic transaction handling
+-VS Code IDE (with Java extensions)
