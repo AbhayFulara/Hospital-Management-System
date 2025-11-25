@@ -44,3 +44,12 @@ Technologies Used:-
 -JDBC (Java Database Connectivity)
 
 -VS Code IDE (with Java extensions)
+
+GUI:-
+
+an initial prototype(NOT FINAL) of the Java Swing–based GUI for the Hospital Management System.
+The interface currently includes:
+A tabbed layout with sections for Patients, Doctors, and Appointments.
+Basic input fields (Name, Age, Gender) for adding patients similarly in case of doctor appointments and beds.
+<img width="2056" height="216" alt="image" src="https://github.com/user-attachments/assets/071a9daa-036a-48a9-8637-6434e99d3215" />
+
