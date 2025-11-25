@@ -48,3 +48,30 @@ Technologies Used:-
 GUI:-
 <img width="2056" height="216" alt="image" src="https://github.com/user-attachments/assets/071a9daa-036a-48a9-8637-6434e99d3215" />
 
+How to Run the Project:-
+
+1. Install Requirements
+
+Install JDK 17+
+
+Install MySQL Server
+
+Install Connector J
+
+Install VS Code + Java extensions
+
+2. Use Pass:-
+
+String url = "jdbc:mysql://localhost:3306/hospital_db";
+String user = "root";
+String pass = "abhay";
+
+
+3. Compile & Run
+
+Open folder in VS Code
+
+Run Main.java
+
+The Swing GUI will launch
+
