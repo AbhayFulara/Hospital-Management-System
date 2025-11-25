@@ -7,7 +7,7 @@ It allows easy handling of patients, doctors, appointments, and bed allocation, 
 
 This project is designed to demonstrate Object-Oriented Programming, GUI development, and database integration, making it suitable for academic and practical learning.
 
-Project Structure
+Project Structure:-
 
 HospitalManagementSystem/
 
@@ -21,3 +21,36 @@ ui/                    # Swing GUI panels (PatientPanel, DoctorPanel, Appointmen
 
 Main.java              # Launches the full GUI application
 
+Features:-
+
+Add & manage patients
+
+Add & manage doctors
+
+Schedule appointments
+
+Allocate beds and track bed availability
+
+View complete record lists:
+
+Patients
+
+Doctors
+
+Appointments
+
+Beds
+
+Persistent storage using MySQL database
+
+Swing-based GUI interface
+
+OOP implementation using:
+
+Abstraction
+
+Inheritance
+
+Encapsulation
+
+Includes multithreading and basic transaction handling
