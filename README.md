@@ -23,34 +23,34 @@ Main.java              # Launches the full GUI application
 
 Features:-
 
-Add & manage patients
+-Add & manage patients
 
-Add & manage doctors
+-Add & manage doctors
 
-Schedule appointments
+-Schedule appointments
 
-Allocate beds and track bed availability
+-Allocate beds and track bed availability
 
-View complete record lists:
+-View complete record lists:
 
-Patients
+-Patients
 
-Doctors
+-Doctors
 
-Appointments
+-Appointments
 
-Beds
+-Beds
 
-Persistent storage using MySQL database
+-Persistent storage using MySQL database
 
-Swing-based GUI interface
+-Swing-based GUI interface
 
-OOP implementation using:
+-OOP implementation using:
 
-Abstraction
+-Abstraction
 
-Inheritance
+-Inheritance
 
-Encapsulation
+-Encapsulation
 
-Includes multithreading and basic transaction handling
+-Includes multithreading and basic transaction handling
