@@ -9,14 +9,9 @@ This project is designed to demonstrate Object-Oriented Programming, GUI develop
 
 Project Structure
 HospitalManagementSystem/
-│
-├── model/                 # Contains all data classes (Patient, Doctor, Bed, Appointment, Person)
-│
-├── dao/                   # Contains DAO classes that perform CRUD operations using JDBC
-│
-├── util/                  # Database connection utility + multithreading helpers
-│
-├── ui/                    # Swing GUI panels (PatientPanel, DoctorPanel, AppointmentPanel, etc.)
-│
-└── Main.java              # Launches the full GUI application
+model/                 # Contains all data classes (Patient, Doctor, Bed, Appointment, Person)
+dao/                   # Contains DAO classes that perform CRUD operations using JDBC
+util/                  # Database connection utility + multithreading helpers
+ui/                    # Swing GUI panels (PatientPanel, DoctorPanel, AppointmentPanel, etc.)
+Main.java              # Launches the full GUI application
 
