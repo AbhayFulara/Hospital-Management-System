@@ -30,7 +30,7 @@ Appointments
 Single-window navigation using CardLayout
 
 
-2. Patient Management
+2.Patient Management
 
 Add new patients
 
@@ -39,7 +39,7 @@ View patient records
 Persistent storage using MySQL database
 
 
-3. Doctor Management
+3.Doctor Management
 
 Add, update, and delete doctors
 
@@ -50,7 +50,7 @@ Maintain doctor notes
 Search doctors by name
 
 
-4. Bed Management
+4.Bed Management
 
 View bed availability
 
@@ -59,7 +59,7 @@ Allocate beds to patients
 Track occupied and available beds
 
 
-5. Appointment Management
+5.Appointment Management
 
 Schedule appointments
 
