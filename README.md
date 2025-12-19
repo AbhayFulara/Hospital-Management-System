@@ -1,6 +1,6 @@
 # Hospital-Management-System
 
-🏥 Hospital Management System (Java Swing)
+Hospital Management System (Java Swing)
 
 A Java-based Hospital Management System developed using Java Swing, JDBC, and MySQL.
 This desktop application provides a centralized platform to manage patients, doctors, beds, and appointments efficiently through an interactive GUI dashboard.
@@ -10,9 +10,9 @@ This project is created as a college academic project to demonstrate Object-Orie
 
 ---
 
-✨ Key Features
+Key Features
 
-📊 Dashboard
+1.Dashboard
 
 Modern dashboard shown on application startup
 
@@ -30,7 +30,7 @@ Appointments
 Single-window navigation using CardLayout
 
 
-👤 Patient Management
+2. Patient Management
 
 Add new patients
 
@@ -39,7 +39,7 @@ View patient records
 Persistent storage using MySQL database
 
 
-🩺 Doctor Management
+3. Doctor Management
 
 Add, update, and delete doctors
 
@@ -50,7 +50,7 @@ Maintain doctor notes
 Search doctors by name
 
 
-🛏 Bed Management
+4. Bed Management
 
 View bed availability
 
@@ -59,7 +59,7 @@ Allocate beds to patients
 Track occupied and available beds
 
 
-📅 Appointment Management
+5. Appointment Management
 
 Schedule appointments
 
@@ -71,7 +71,7 @@ Store appointment details in database
 
 ---
 
-🛠 Technologies Used
+Technologies Used
 
 Java (JDK 17+)
 
@@ -83,13 +83,13 @@ MySQL Database
 
 VS Code with Java Extensions
 
-MVC Architecture
+
 
 
 
 ---
 
-📂 Project Structure
+Project Structure
 
 hospital-management-system-java/
 │
@@ -109,7 +109,7 @@ hospital-management-system-java/
 
 ---
 
-🗄 Database Setup
+Database Setup
 
 1️⃣ Create Database and Tables
 
@@ -157,7 +157,7 @@ CREATE TABLE appointments (
 
 ---
 
-⚙️ Configuration
+Configuration
 
 Update your database credentials in:
 
@@ -172,7 +172,7 @@ String password = "your_mysql_password";
 
 ---
 
-▶️ How to Run the Project
+How to Run the Project
 
 1. Install JDK 17 or higher
 
@@ -195,12 +195,12 @@ String password = "your_mysql_password";
 
 src/util/MainApp.java
 
-➡️ The Dashboard will open first.
+The Dashboard will open first.
 
 
 ---
 
-🎯 Learning Outcomes
+Learning Outcomes
 
 Java Swing GUI development
 
@@ -216,7 +216,7 @@ Event handling and layout management
 
 ---
 
-🚀 Future Enhancements
+Future Enhancements
 
 Login & authentication system
 
@@ -232,6 +232,4 @@ Cloud database integration
 
 ---
 
-🎓 Academic Note
 
-This project is developed strictly for educational purposes as part of a college mini/major project.
