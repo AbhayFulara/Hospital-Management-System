@@ -29,6 +29,9 @@ Appointments
 
 Single-window navigation using CardLayout
 
+![dash](https://github.com/user-attachments/assets/5af4c664-84e9-43c6-8e87-b0deedb2a02a)
+
+
 
 # 2.Patient Management:-
 
@@ -37,6 +40,9 @@ Add new patients
 View patient records
 
 Persistent storage using MySQL database
+
+![patient](https://github.com/user-attachments/assets/dc64760f-7721-44cf-873c-ba95f59cf1cc)
+
 
 
 # 3.Doctor Management:-
@@ -49,6 +55,9 @@ Maintain doctor notes
 
 Search doctors by name
 
+![doc](https://github.com/user-attachments/assets/ec94c20c-873b-4932-baeb-c0fcf16d989f)
+
+
 
 # 4.Bed Management:-
 
@@ -58,6 +67,9 @@ Allocate beds to patients
 
 Track occupied and available beds
 
+![bed](https://github.com/user-attachments/assets/bf675429-f562-45a6-a86a-7e03c51bb20e)
+
+
 
 # 5.Appointment Management:-
 
@@ -66,6 +78,9 @@ Schedule appointments
 Link patients with doctors
 
 Store appointment details in database
+
+![appo](https://github.com/user-attachments/assets/ce1e8349-0452-4bb6-8658-f60aafaaf801)
+
 
 
 
@@ -131,6 +146,9 @@ bin/
 Compiled class files
 
 README.md
+
+<img width="422" height="879" alt="Screenshot 2025-12-17 164957" src="https://github.com/user-attachments/assets/eec5a6ab-167f-4ca2-9cc4-b5247e795d90" />
+
 
 
 ---
