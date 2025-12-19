@@ -92,19 +92,18 @@ VS Code with Java Extensions
 Project Structure
 
 hospital-management-system-java/
-│
-├── src/
-│   ├── dao/              # DAO classes (database operations)
-│   ├── model/            # Entity classes (Patient, Doctor, Bed, Appointment)
-│   ├── service/          # Business logic layer
-│   ├── ui/               # Swing UI panels & MainFrame
-│   ├── util/             # DB connection and utilities
-│   └── resources/
-│       └── icons/        # Dashboard icons (JPEG)
-│
-├── lib/                  # JDBC connector (if external)
-├── bin/                  # Compiled class files
-├── README.md
+src/
+dao/              # DAO classes (database operations)
+model/            # Entity classes (Patient, Doctor, Bed, Appointment)
+service/          # Business logic layer
+ui/               # Swing UI panels & MainFrame
+util/             # DB connection and utilities
+resources/
+icons/        # Dashboard icons (JPEG)
+
+lib/                  # JDBC connector (if external)
+bin/                  # Compiled class files
+README.md
 
 
 ---
